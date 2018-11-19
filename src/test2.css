@@ -1,0 +1,19 @@
+.test2{
+  border-style: solid;
+  border-color: red;
+  width: 80px;
+  display: inline-block;
+  margin-top: 20px;
+  }
+  .displaynone{
+    display: none;
+  }
+  .listitem span{
+    display: list-item;
+    list-style:disc outside none;
+
+  }
+  .marget{
+  width: 300px;
+  margin: 0 auto; 
+  }
